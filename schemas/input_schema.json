@@ -1,0 +1,40 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "items": {
+        "properties": {
+            "Sample_Plate": {
+                "errorMessage": "Sample_Plate must be provided and cannot contain spaces, can only contain numbers, letters, dash '-' and underscore '_', and must contain a least a leltter",
+                "meta": ["Sample_Plate"],
+                "pattern": "^[a-zA-Z0-9_-]+$",
+                "type": "string"
+            },
+            "Sample_Well": {
+                "errorMessage": "Sample_Well must be provided, cannot contain spaces, must be A01, A02 etc",
+                "meta": ["Sample_Well"],
+                "pattern": "^[a-zA-Z0-9]+$",
+                "type": "string"
+            },
+            "i7": {
+                "meta": ["i7"],
+                "errorMessage": "i7 barcode must be provided, cannot contain spaces, must be ATCG",
+                "pattern": "^[ATCGatcg]+$",
+                "type": "string"
+            },
+            "i5": {
+                
+                "meta": ["i5"],
+                "errorMessage": "i5 barcode must be provided, cannot contain spaces, must be ATCG",
+                "pattern": "^[ATCGatcg]+$",
+                "type": "string"
+            }
+        },
+        "required": [
+            "Sample_Plate",
+            "Sample_Well",
+            "i7",
+            "i5"
+        ],
+        "type": "object"
+    },
+    "type": "array"
+}

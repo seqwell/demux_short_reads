@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ImageAnalysis xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Run Name="Intensities">
+    <Cycles First="1" Last="5" Number="5" />
+    <ImageParameters>
+      <AutoOffsetFlag>0</AutoOffsetFlag>
+      <AutoSizeFlag>0</AutoSizeFlag>
+      <Fwhm>0</Fwhm>
+      <RemappingDistance>0</RemappingDistance>
+      <Threshold>0</Threshold>
+    </ImageParameters>
+    <RunParameters>
+      <AutoCycleFlag>0</AutoCycleFlag>
+      <BasecallFlag>0</BasecallFlag>
+      <Deblocked>0</Deblocked>
+      <DebugFlag>0</DebugFlag>
+      <FirstRunOnlyFlag>0</FirstRunOnlyFlag>
+      <ImagingReads Index="1">
+        <FirstCycle>1</FirstCycle>
+        <LastCycle>5</LastCycle>
+        <RunFolder>250303_M06490_1047_000000000-DRY9D</RunFolder>
+      </ImagingReads>
+      <Instrument>MISEQ</Instrument>
+      <IterativeMatrixFlag>0</IterativeMatrixFlag>
+      <MakeFlag>0</MakeFlag>
+      <MaxCycle>0</MaxCycle>
+      <MinCycle>0</MinCycle>
+      <Reads Index="1">
+        <FirstCycle>1</FirstCycle>
+        <LastCycle>5</LastCycle>
+        <RunFolder>250303_M06490_1047_000000000-DRY9D</RunFolder>
+      </Reads>
+      <RunFolder>250303_M06490_1047_000000000-DRY9D</RunFolder>
+      <RunFolderDate>250303</RunFolderDate>
+      <RunFolderId>1047</RunFolderId>
+      <RunFlowcellId>000000000-DRY9D</RunFlowcellId>
+      <Barcode>
+        <Cycle Use="true">26</Cycle>
+        <Cycle Use="true">27</Cycle>
+        <Cycle Use="true">28</Cycle>
+        <Cycle Use="true">29</Cycle>
+        <Cycle Use="true">30</Cycle>
+        <Cycle Use="true">31</Cycle>
+        <Cycle Use="true">32</Cycle>
+        <Cycle Use="true">33</Cycle>
+        <Cycle Use="true">34</Cycle>
+        <Cycle Use="true">35</Cycle>
+        <Cycle Use="true">36</Cycle>
+        <Cycle Use="true">37</Cycle>
+        <Cycle Use="true">38</Cycle>
+        <Cycle Use="true">39</Cycle>
+        <Cycle Use="true">40</Cycle>
+        <Cycle Use="true">41</Cycle>
+        <Cycle Use="true">42</Cycle>
+        <Cycle Use="true">43</Cycle>
+        <Cycle Use="true">44</Cycle>
+        <Cycle Use="true">45</Cycle>
+      </Barcode>
+      <QTableVersion>V6</QTableVersion>
+    </RunParameters>
+    <Software Name="RTA" Version="1.18.54.4" />
+    <TileSelection>
+      <Lane Index="1">
+        <Sample>s</Sample>
+        <Tile>1101</Tile>
+        <Tile>1102</Tile>
+      </Lane>
+    </TileSelection>
+    <Time />
+    <User />
+  </Run>
+</ImageAnalysis>

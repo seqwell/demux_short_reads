@@ -1,0 +1,856 @@
+3/3/2025,13:58:03.163,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\config.xml,0,0,0
+3/3/2025,13:58:03.164,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\config.xml,0,0,0
+3/3/2025,13:58:03.164,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\config.xml,0,0,0
+3/3/2025,13:58:03.165,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\config.xml,0,0,0
+3/3/2025,13:58:03.166,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InterOp\TileMetricsOut.bin,0,0,0
+3/3/2025,13:58:03.167,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InterOp\TileMetricsOut.bin,0,0,0
+3/3/2025,13:58:04.171,0,0,0,Aggregate color matrix:1,0,0,0
+3/3/2025,13:58:04.172,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\config.xml,0,0,0
+3/3/2025,13:58:04.174,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\config.xml,0,0,0
+3/3/2025,13:58:04.174,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\config.xml,0,0,0
+3/3/2025,13:58:04.175,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\config.xml,0,0,0
+3/3/2025,14:40:30.505,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\config.xml,0,0,0
+3/3/2025,14:40:30.505,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\config.xml,0,0,0
+3/3/2025,14:40:30.506,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\config.xml,0,0,0
+3/3/2025,14:40:30.507,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\config.xml,0,0,0
+3/3/2025,14:40:30.508,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InterOp\ExtractionMetricsOut.bin,0,0,0
+3/3/2025,14:40:30.509,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InterOp\ExtractionMetricsOut.bin,0,0,0
+3/3/2025,14:45:30.669,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\config.xml,0,0,0
+3/3/2025,14:45:30.670,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\config.xml,0,0,0
+3/3/2025,14:45:30.671,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\config.xml,0,0,0
+3/3/2025,14:45:30.672,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\config.xml,0,0,0
+3/3/2025,14:45:30.673,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InterOp\ExtractionMetricsOut.bin,0,0,0
+3/3/2025,14:45:30.674,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InterOp\ExtractionMetricsOut.bin,0,0,0
+3/3/2025,14:45:30.675,0,0,0,Triggering Extraction Cycle Completed 36,0,0,0
+3/3/2025,14:45:30.676,0,0,0,Triggering Extraction Cycle Completed 37,0,0,0
+3/3/2025,14:48:16.822,0,0,0,Aggregate phasing:2,0,0,0
+3/3/2025,14:50:30.892,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\config.xml,0,0,0
+3/3/2025,14:50:30.892,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\config.xml,0,0,0
+3/3/2025,14:50:30.893,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\config.xml,0,0,0
+3/3/2025,14:50:30.894,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\config.xml,0,0,0
+3/3/2025,14:50:30.895,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InterOp\ExtractionMetricsOut.bin,0,0,0
+3/3/2025,14:50:30.896,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InterOp\ExtractionMetricsOut.bin,0,0,0
+3/3/2025,14:50:30.898,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InterOp\TileMetricsOut.bin,0,0,0
+3/3/2025,14:50:30.898,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InterOp\TileMetricsOut.bin,0,0,0
+3/3/2025,14:50:30.900,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InterOp\CorrectedIntMetricsOut.bin,0,0,0
+3/3/2025,14:50:30.900,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InterOp\CorrectedIntMetricsOut.bin,0,0,0
+3/3/2025,14:50:30.901,0,0,0,Triggering Extraction Cycle Completed 38,0,0,0
+3/3/2025,14:50:30.901,0,0,0,Triggering Extraction Cycle Completed 39,0,0,0
+3/3/2025,14:50:30.901,0,0,0,Triggering Basecall Cycle Completed 36,0,0,0
+3/3/2025,14:50:30.902,0,0,0,Triggering Basecall Cycle Completed 37,0,0,0
+3/3/2025,14:50:30.902,0,0,0,Triggering Basecall Cycle Completed 38,0,0,0
+3/3/2025,14:55:31.061,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\config.xml,0,0,0
+3/3/2025,14:55:31.063,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\config.xml,0,0,0
+3/3/2025,14:55:31.063,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\config.xml,0,0,0
+3/3/2025,14:55:31.065,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\config.xml,0,0,0
+3/3/2025,14:55:31.066,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InterOp\ExtractionMetricsOut.bin,0,0,0
+3/3/2025,14:55:31.067,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InterOp\ExtractionMetricsOut.bin,0,0,0
+3/3/2025,14:55:31.069,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InterOp\CorrectedIntMetricsOut.bin,0,0,0
+3/3/2025,14:55:31.069,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InterOp\CorrectedIntMetricsOut.bin,0,0,0
+3/3/2025,14:55:31.070,0,0,0,Triggering Extraction Cycle Completed 40,0,0,0
+3/3/2025,14:55:31.070,0,0,0,Triggering Extraction Cycle Completed 41,0,0,0
+3/3/2025,14:55:31.070,0,0,0,Triggering Basecall Cycle Completed 39,0,0,0
+3/3/2025,14:55:31.070,0,0,0,Triggering Basecall Cycle Completed 40,0,0,0
+3/3/2025,15:00:31.247,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\config.xml,0,0,0
+3/3/2025,15:00:31.248,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\config.xml,0,0,0
+3/3/2025,15:00:31.249,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\config.xml,0,0,0
+3/3/2025,15:00:31.250,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\config.xml,0,0,0
+3/3/2025,15:00:31.251,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InterOp\ExtractionMetricsOut.bin,0,0,0
+3/3/2025,15:00:31.252,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InterOp\ExtractionMetricsOut.bin,0,0,0
+3/3/2025,15:00:31.254,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InterOp\CorrectedIntMetricsOut.bin,0,0,0
+3/3/2025,15:00:31.254,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InterOp\CorrectedIntMetricsOut.bin,0,0,0
+3/3/2025,15:00:31.255,0,0,0,Triggering Extraction Cycle Completed 42,0,0,0
+3/3/2025,15:00:31.255,0,0,0,Triggering Basecall Cycle Completed 41,0,0,0
+3/3/2025,15:05:31.483,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\config.xml,0,0,0
+3/3/2025,15:05:31.483,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\config.xml,0,0,0
+3/3/2025,15:05:31.484,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\config.xml,0,0,0
+3/3/2025,15:05:31.485,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\config.xml,0,0,0
+3/3/2025,15:05:31.486,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InterOp\ExtractionMetricsOut.bin,0,0,0
+3/3/2025,15:05:31.488,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InterOp\ExtractionMetricsOut.bin,0,0,0
+3/3/2025,15:05:31.490,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InterOp\CorrectedIntMetricsOut.bin,0,0,0
+3/3/2025,15:05:31.490,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InterOp\CorrectedIntMetricsOut.bin,0,0,0
+3/3/2025,15:05:31.490,0,0,0,Triggering Extraction Cycle Completed 43,0,0,0
+3/3/2025,15:05:31.490,0,0,0,Triggering Extraction Cycle Completed 44,0,0,0
+3/3/2025,15:05:31.491,0,0,0,Triggering Basecall Cycle Completed 42,0,0,0
+3/3/2025,15:05:31.491,0,0,0,Triggering Basecall Cycle Completed 43,0,0,0
+3/3/2025,15:06:17.516,0,0,0,All Threads have finished,0,0,0
+3/3/2025,15:06:17.517,0,0,0,Waiting for copy and delete threads to finish...,0,0,0
+3/3/2025,15:06:19.519,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\config.xml,0,0,0
+3/3/2025,15:06:19.520,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\config.xml,0,0,0
+3/3/2025,15:06:19.522,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\config.xml,0,0,0
+3/3/2025,15:06:19.522,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\config.xml,0,0,0
+3/3/2025,15:06:19.524,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InterOp\ExtractionMetricsOut.bin,0,0,0
+3/3/2025,15:06:19.525,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InterOp\ExtractionMetricsOut.bin,0,0,0
+3/3/2025,15:06:19.526,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InterOp\TileMetricsOut.bin,0,0,0
+3/3/2025,15:06:19.527,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InterOp\TileMetricsOut.bin,0,0,0
+3/3/2025,15:06:19.528,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InterOp\QMetricsOut.bin,0,0,0
+3/3/2025,15:06:19.529,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InterOp\QMetricsOut.bin,0,0,0
+3/3/2025,15:06:19.530,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InterOp\CorrectedIntMetricsOut.bin,0,0,0
+3/3/2025,15:06:19.530,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InterOp\CorrectedIntMetricsOut.bin,0,0,0
+3/3/2025,15:06:19.531,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InterOp\ControlMetricsOut.bin,0,0,0
+3/3/2025,15:06:19.533,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InterOp\ControlMetricsOut.bin,0,0,0
+3/3/2025,15:06:19.535,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InterOp\IndexMetricsOut.bin,0,0,0
+3/3/2025,15:06:19.535,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InterOp\IndexMetricsOut.bin,0,0,0
+3/3/2025,15:06:19.536,0,0,0,Completed copy for read 3,0,0,0
+3/3/2025,15:06:19.536,0,0,0,Triggering Extraction Cycle Completed 45,0,0,0
+3/3/2025,15:06:19.536,0,0,0,Triggering Basecall Cycle Completed 44,0,0,0
+3/3/2025,15:06:19.536,0,0,0,Triggering Basecall Cycle Completed 45,0,0,0
+3/3/2025,15:06:19.536,0,0,0,Triggering Quality Scored Cycle Completed 36,0,0,0
+3/3/2025,15:06:19.537,0,0,0,Triggering Quality Scored Cycle Completed 37,0,0,0
+3/3/2025,15:06:19.537,0,0,0,Triggering Quality Scored Cycle Completed 38,0,0,0
+3/3/2025,15:06:19.538,0,0,0,Triggering Quality Scored Cycle Completed 39,0,0,0
+3/3/2025,15:06:19.538,0,0,0,Triggering Quality Scored Cycle Completed 40,0,0,0
+3/3/2025,15:06:19.538,0,0,0,Triggering Quality Scored Cycle Completed 41,0,0,0
+3/3/2025,15:06:19.538,0,0,0,Triggering Quality Scored Cycle Completed 42,0,0,0
+3/3/2025,15:06:19.538,0,0,0,Triggering Quality Scored Cycle Completed 43,0,0,0
+3/3/2025,15:06:19.539,0,0,0,Triggering Quality Scored Cycle Completed 44,0,0,0
+3/3/2025,15:06:19.539,0,0,0,Triggering Quality Scored Cycle Completed 45,0,0,0
+3/3/2025,15:06:19.539,0,0,0,Triggering BCL file copied Cycle Completed 36,0,0,0
+3/3/2025,15:06:19.539,0,0,0,Triggering BCL file copied Cycle Completed 37,0,0,0
+3/3/2025,15:06:19.539,0,0,0,Triggering BCL file copied Cycle Completed 38,0,0,0
+3/3/2025,15:06:19.539,0,0,0,Triggering BCL file copied Cycle Completed 39,0,0,0
+3/3/2025,15:06:19.539,0,0,0,Triggering BCL file copied Cycle Completed 40,0,0,0
+3/3/2025,15:06:19.539,0,0,0,Triggering BCL file copied Cycle Completed 41,0,0,0
+3/3/2025,15:06:19.539,0,0,0,Triggering BCL file copied Cycle Completed 42,0,0,0
+3/3/2025,15:06:19.539,0,0,0,Triggering BCL file copied Cycle Completed 43,0,0,0
+3/3/2025,15:06:19.539,0,0,0,Triggering BCL file copied Cycle Completed 44,0,0,0
+3/3/2025,15:06:19.539,0,0,0,Triggering BCL file copied Cycle Completed 45,0,0,0
+3/3/2025,15:06:19.540,0,0,0,Processing completed. Run has finished.,0,0,0
+3/3/2025,15:06:19.541,0,0,0,Moving all base level files,0,0,0
+3/3/2025,15:06:19.541,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Basecalling_Netcopy_complete.txt,0,0,0
+3/3/2025,15:06:19.542,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Basecalling_Netcopy_complete_Read2.txt,0,0,0
+3/3/2025,15:06:19.542,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\ImageAnalysis_Netcopy_complete_Read1.txt,0,0,0
+3/3/2025,15:06:19.543,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\ImageAnalysis_Netcopy_complete_Read3.txt,0,0,0
+3/3/2025,15:06:19.543,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\RunInfo.xml,0,0,0
+3/3/2025,15:06:19.545,0,0,0,Error Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\RunInfo.xml to D:\Illumina\RTATemp\250303_M06490_1047_000000000-DRY9D\RunInfo.xml : System.IO.IOException: The process cannot access the file 'D:\Illumina\RTATemp\250303_M06490_1047_000000000-DRY9D\RunInfo.xml' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)
+   at Illumina.Common.FileMover.ProcessFiles(FileInfo sourceFile, String targetDirectory) in d:\BuildAgent\work\ab09a7827fcefa72\Src\Shared\ILMNcommon\Common\FileMover.cs:line 260,0,0,0
+3/3/2025,15:06:19.545,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\SampleSheet.csv,0,0,0
+3/3/2025,15:06:19.546,0,0,0,Error Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\SampleSheet.csv to D:\Illumina\RTATemp\250303_M06490_1047_000000000-DRY9D\SampleSheet.csv : System.IO.IOException: The process cannot access the file 'D:\Illumina\RTATemp\250303_M06490_1047_000000000-DRY9D\SampleSheet.csv' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)
+   at Illumina.Common.FileMover.ProcessFiles(FileInfo sourceFile, String targetDirectory) in d:\BuildAgent\work\ab09a7827fcefa72\Src\Shared\ILMNcommon\Common\FileMover.cs:line 260,0,0,0
+3/3/2025,15:06:19.548,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Basecalling_Netcopy_complete_Read1.txt,0,0,0
+3/3/2025,15:06:19.548,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\ImageAnalysis_Netcopy_complete_Read2.txt,0,0,0
+3/3/2025,15:06:19.549,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\RunParameters.xml,0,0,0
+3/3/2025,15:06:19.550,0,0,0,Error Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\RunParameters.xml to D:\Illumina\RTATemp\250303_M06490_1047_000000000-DRY9D\RunParameters.xml : System.IO.IOException: The process cannot access the file 'D:\Illumina\RTATemp\250303_M06490_1047_000000000-DRY9D\RunParameters.xml' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)
+   at Illumina.Common.FileMover.ProcessFiles(FileInfo sourceFile, String targetDirectory) in d:\BuildAgent\work\ab09a7827fcefa72\Src\Shared\ILMNcommon\Common\FileMover.cs:line 260,0,0,0
+3/3/2025,15:06:19.551,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\ImageAnalysis_Netcopy_complete.txt,0,0,0
+3/3/2025,15:06:19.551,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\ReportInfo.dat,0,0,0
+3/3/2025,15:06:19.552,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Basecalling_Netcopy_complete.txt,0,0,0
+3/3/2025,15:06:19.553,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Basecalling_Netcopy_complete_Read2.txt,0,0,0
+3/3/2025,15:06:19.553,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\ImageAnalysis_Netcopy_complete_Read1.txt,0,0,0
+3/3/2025,15:06:19.554,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\ImageAnalysis_Netcopy_complete_Read3.txt,0,0,0
+3/3/2025,15:06:19.554,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\RunInfo.xml,0,0,0
+3/3/2025,15:06:19.555,0,0,0,Error Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\RunInfo.xml to D:\Illumina\MiSeqAnalysis\250303_M06490_1047_000000000-DRY9D\RunInfo.xml : System.IO.IOException: The process cannot access the file 'D:\Illumina\MiSeqAnalysis\250303_M06490_1047_000000000-DRY9D\RunInfo.xml' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)
+   at Illumina.Common.FileMover.ProcessFiles(FileInfo sourceFile, String targetDirectory) in d:\BuildAgent\work\ab09a7827fcefa72\Src\Shared\ILMNcommon\Common\FileMover.cs:line 260,0,0,0
+3/3/2025,15:06:19.556,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\SampleSheet.csv,0,0,0
+3/3/2025,15:06:19.557,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Basecalling_Netcopy_complete_Read1.txt,0,0,0
+3/3/2025,15:06:19.557,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\ImageAnalysis_Netcopy_complete_Read2.txt,0,0,0
+3/3/2025,15:06:19.558,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\RunParameters.xml,0,0,0
+3/3/2025,15:06:19.559,0,0,0,Error Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\RunParameters.xml to D:\Illumina\MiSeqAnalysis\250303_M06490_1047_000000000-DRY9D\RunParameters.xml : System.IO.IOException: The process cannot access the file 'D:\Illumina\MiSeqAnalysis\250303_M06490_1047_000000000-DRY9D\RunParameters.xml' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)
+   at Illumina.Common.FileMover.ProcessFiles(FileInfo sourceFile, String targetDirectory) in d:\BuildAgent\work\ab09a7827fcefa72\Src\Shared\ILMNcommon\Common\FileMover.cs:line 260,0,0,0
+3/3/2025,15:06:19.560,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\ImageAnalysis_Netcopy_complete.txt,0,0,0
+3/3/2025,15:06:19.560,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\ReportInfo.dat,0,0,0
+3/3/2025,15:06:19.561,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Config\Effective.cfg,0,0,0
+3/3/2025,15:06:19.562,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Config\RTAStart.bat,0,0,0
+3/3/2025,15:06:19.563,0,0,0,Error Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Config\RTAStart.bat to D:\Illumina\RTATemp\250303_M06490_1047_000000000-DRY9D\Config\RTAStart.bat : System.IO.IOException: The process cannot access the file 'D:\Illumina\RTATemp\250303_M06490_1047_000000000-DRY9D\Config\RTAStart.bat' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)
+   at Illumina.Common.FileMover.ProcessFiles(FileInfo sourceFile, String targetDirectory) in d:\BuildAgent\work\ab09a7827fcefa72\Src\Shared\ILMNcommon\Common\FileMover.cs:line 260,0,0,0
+3/3/2025,15:06:19.564,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Config\MiSeqOverride.cfg,0,0,0
+3/3/2025,15:06:19.565,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Config\Effective.cfg,0,0,0
+3/3/2025,15:06:19.566,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Config\RTAStart.bat,0,0,0
+3/3/2025,15:06:19.567,0,0,0,Error Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Config\RTAStart.bat to D:\Illumina\MiSeqAnalysis\250303_M06490_1047_000000000-DRY9D\Config\RTAStart.bat : System.IO.IOException: The process cannot access the file 'D:\Illumina\MiSeqAnalysis\250303_M06490_1047_000000000-DRY9D\Config\RTAStart.bat' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)
+   at Illumina.Common.FileMover.ProcessFiles(FileInfo sourceFile, String targetDirectory) in d:\BuildAgent\work\ab09a7827fcefa72\Src\Shared\ILMNcommon\Common\FileMover.cs:line 260,0,0,0
+3/3/2025,15:06:19.568,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Config\MiSeqOverride.cfg,0,0,0
+3/3/2025,15:06:19.569,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\config.xml,0,0,0
+3/3/2025,15:06:19.569,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\RTAConfiguration.xml,0,0,0
+3/3/2025,15:06:19.570,0,0,0,Error Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\RTAConfiguration.xml to D:\Illumina\RTATemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\RTAConfiguration.xml : System.IO.IOException: The process cannot access the file 'D:\Illumina\RTATemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\RTAConfiguration.xml' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)
+   at Illumina.Common.FileMover.ProcessFiles(FileInfo sourceFile, String targetDirectory) in d:\BuildAgent\work\ab09a7827fcefa72\Src\Shared\ILMNcommon\Common\FileMover.cs:line 260,0,0,0
+3/3/2025,15:06:19.571,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\config.xml,0,0,0
+3/3/2025,15:06:19.571,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\SampleSheet.csv,0,0,0
+3/3/2025,15:06:19.573,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Matrix\s_1_1_1101_matrix.txt,0,0,0
+3/3/2025,15:06:19.574,0,0,0,Error Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Matrix\s_1_1_1101_matrix.txt to D:\Illumina\RTATemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Matrix\s_1_1_1101_matrix.txt : System.IO.IOException: The process cannot access the file 'D:\Illumina\RTATemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Matrix\s_1_1_1101_matrix.txt' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)
+   at Illumina.Common.FileMover.ProcessFiles(FileInfo sourceFile, String targetDirectory) in d:\BuildAgent\work\ab09a7827fcefa72\Src\Shared\ILMNcommon\Common\FileMover.cs:line 260,0,0,0
+3/3/2025,15:06:19.576,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Matrix\s_1_1_matrix.txt,0,0,0
+3/3/2025,15:06:19.577,0,0,0,Error Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Matrix\s_1_1_matrix.txt to D:\Illumina\RTATemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Matrix\s_1_1_matrix.txt : System.IO.IOException: The process cannot access the file 'D:\Illumina\RTATemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Matrix\s_1_1_matrix.txt' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)
+   at Illumina.Common.FileMover.ProcessFiles(FileInfo sourceFile, String targetDirectory) in d:\BuildAgent\work\ab09a7827fcefa72\Src\Shared\ILMNcommon\Common\FileMover.cs:line 260,0,0,0
+3/3/2025,15:06:19.578,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Matrix\s_1_2_1102_matrix.txt,0,0,0
+3/3/2025,15:06:19.579,0,0,0,Error Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Matrix\s_1_2_1102_matrix.txt to D:\Illumina\RTATemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Matrix\s_1_2_1102_matrix.txt : System.IO.IOException: The process cannot access the file 'D:\Illumina\RTATemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Matrix\s_1_2_1102_matrix.txt' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)
+   at Illumina.Common.FileMover.ProcessFiles(FileInfo sourceFile, String targetDirectory) in d:\BuildAgent\work\ab09a7827fcefa72\Src\Shared\ILMNcommon\Common\FileMover.cs:line 260,0,0,0
+3/3/2025,15:06:19.580,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Matrix\s_1_3_1101_matrix.txt,0,0,0
+3/3/2025,15:06:19.580,0,0,0,Error Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Matrix\s_1_3_1101_matrix.txt to D:\Illumina\RTATemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Matrix\s_1_3_1101_matrix.txt : System.IO.IOException: The process cannot access the file 'D:\Illumina\RTATemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Matrix\s_1_3_1101_matrix.txt' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)
+   at Illumina.Common.FileMover.ProcessFiles(FileInfo sourceFile, String targetDirectory) in d:\BuildAgent\work\ab09a7827fcefa72\Src\Shared\ILMNcommon\Common\FileMover.cs:line 260,0,0,0
+3/3/2025,15:06:19.582,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Matrix\s_1_3_matrix.txt,0,0,0
+3/3/2025,15:06:19.582,0,0,0,Error Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Matrix\s_1_3_matrix.txt to D:\Illumina\RTATemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Matrix\s_1_3_matrix.txt : System.IO.IOException: The process cannot access the file 'D:\Illumina\RTATemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Matrix\s_1_3_matrix.txt' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)
+   at Illumina.Common.FileMover.ProcessFiles(FileInfo sourceFile, String targetDirectory) in d:\BuildAgent\work\ab09a7827fcefa72\Src\Shared\ILMNcommon\Common\FileMover.cs:line 260,0,0,0
+3/3/2025,15:06:19.583,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Matrix\s_2_matrix.txt,0,0,0
+3/3/2025,15:06:19.584,0,0,0,Error Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Matrix\s_2_matrix.txt to D:\Illumina\RTATemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Matrix\s_2_matrix.txt : System.IO.IOException: The process cannot access the file 'D:\Illumina\RTATemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Matrix\s_2_matrix.txt' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)
+   at Illumina.Common.FileMover.ProcessFiles(FileInfo sourceFile, String targetDirectory) in d:\BuildAgent\work\ab09a7827fcefa72\Src\Shared\ILMNcommon\Common\FileMover.cs:line 260,0,0,0
+3/3/2025,15:06:19.586,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Matrix\s_1_1_1102_matrix.txt,0,0,0
+3/3/2025,15:06:19.586,0,0,0,Error Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Matrix\s_1_1_1102_matrix.txt to D:\Illumina\RTATemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Matrix\s_1_1_1102_matrix.txt : System.IO.IOException: The process cannot access the file 'D:\Illumina\RTATemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Matrix\s_1_1_1102_matrix.txt' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)
+   at Illumina.Common.FileMover.ProcessFiles(FileInfo sourceFile, String targetDirectory) in d:\BuildAgent\work\ab09a7827fcefa72\Src\Shared\ILMNcommon\Common\FileMover.cs:line 260,0,0,0
+3/3/2025,15:06:19.587,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Matrix\s_1_2_matrix.txt,0,0,0
+3/3/2025,15:06:19.588,0,0,0,Error Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Matrix\s_1_2_matrix.txt to D:\Illumina\RTATemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Matrix\s_1_2_matrix.txt : System.IO.IOException: The process cannot access the file 'D:\Illumina\RTATemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Matrix\s_1_2_matrix.txt' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)
+   at Illumina.Common.FileMover.ProcessFiles(FileInfo sourceFile, String targetDirectory) in d:\BuildAgent\work\ab09a7827fcefa72\Src\Shared\ILMNcommon\Common\FileMover.cs:line 260,0,0,0
+3/3/2025,15:06:19.589,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Matrix\s_1_matrix.txt,0,0,0
+3/3/2025,15:06:19.591,0,0,0,Error Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Matrix\s_1_matrix.txt to D:\Illumina\RTATemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Matrix\s_1_matrix.txt : System.IO.IOException: The process cannot access the file 'D:\Illumina\RTATemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Matrix\s_1_matrix.txt' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)
+   at Illumina.Common.FileMover.ProcessFiles(FileInfo sourceFile, String targetDirectory) in d:\BuildAgent\work\ab09a7827fcefa72\Src\Shared\ILMNcommon\Common\FileMover.cs:line 260,0,0,0
+3/3/2025,15:06:19.592,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Matrix\s_1_2_1101_matrix.txt,0,0,0
+3/3/2025,15:06:19.593,0,0,0,Error Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Matrix\s_1_2_1101_matrix.txt to D:\Illumina\RTATemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Matrix\s_1_2_1101_matrix.txt : System.IO.IOException: The process cannot access the file 'D:\Illumina\RTATemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Matrix\s_1_2_1101_matrix.txt' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)
+   at Illumina.Common.FileMover.ProcessFiles(FileInfo sourceFile, String targetDirectory) in d:\BuildAgent\work\ab09a7827fcefa72\Src\Shared\ILMNcommon\Common\FileMover.cs:line 260,0,0,0
+3/3/2025,15:06:19.594,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Matrix\s_3_matrix.txt,0,0,0
+3/3/2025,15:06:19.595,0,0,0,Error Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Matrix\s_3_matrix.txt to D:\Illumina\RTATemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Matrix\s_3_matrix.txt : System.IO.IOException: The process cannot access the file 'D:\Illumina\RTATemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Matrix\s_3_matrix.txt' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)
+   at Illumina.Common.FileMover.ProcessFiles(FileInfo sourceFile, String targetDirectory) in d:\BuildAgent\work\ab09a7827fcefa72\Src\Shared\ILMNcommon\Common\FileMover.cs:line 260,0,0,0
+3/3/2025,15:06:19.596,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Matrix\s_1_3_1102_matrix.txt,0,0,0
+3/3/2025,15:06:19.597,0,0,0,Error Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Matrix\s_1_3_1102_matrix.txt to D:\Illumina\RTATemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Matrix\s_1_3_1102_matrix.txt : System.IO.IOException: The process cannot access the file 'D:\Illumina\RTATemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Matrix\s_1_3_1102_matrix.txt' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)
+   at Illumina.Common.FileMover.ProcessFiles(FileInfo sourceFile, String targetDirectory) in d:\BuildAgent\work\ab09a7827fcefa72\Src\Shared\ILMNcommon\Common\FileMover.cs:line 260,0,0,0
+3/3/2025,15:06:19.599,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\EmpiricalPhasingCorrection_1_1_1101.txt,0,0,0
+3/3/2025,15:06:19.599,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\EmpiricalPhasingCorrection_1_2_1101.txt,0,0,0
+3/3/2025,15:06:19.600,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\EmpiricalPhasingCorrection_1_3_1101.txt,0,0,0
+3/3/2025,15:06:19.600,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_02_phasing.xml,0,0,0
+3/3/2025,15:06:19.602,0,0,0,Error Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_02_phasing.xml to D:\Illumina\RTATemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_02_phasing.xml : System.IO.IOException: The process cannot access the file 'D:\Illumina\RTATemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_02_phasing.xml' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)
+   at Illumina.Common.FileMover.ProcessFiles(FileInfo sourceFile, String targetDirectory) in d:\BuildAgent\work\ab09a7827fcefa72\Src\Shared\ILMNcommon\Common\FileMover.cs:line 260,0,0,0
+3/3/2025,15:06:19.603,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_1_1102_phasing.txt,0,0,0
+3/3/2025,15:06:19.604,0,0,0,Error Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_1_1102_phasing.txt to D:\Illumina\RTATemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_1_1102_phasing.txt : System.IO.IOException: The process cannot access the file 'D:\Illumina\RTATemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_1_1102_phasing.txt' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)
+   at Illumina.Common.FileMover.ProcessFiles(FileInfo sourceFile, String targetDirectory) in d:\BuildAgent\work\ab09a7827fcefa72\Src\Shared\ILMNcommon\Common\FileMover.cs:line 260,0,0,0
+3/3/2025,15:06:19.605,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_27_phasing.xml,0,0,0
+3/3/2025,15:06:19.606,0,0,0,Error Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_27_phasing.xml to D:\Illumina\RTATemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_27_phasing.xml : System.IO.IOException: The process cannot access the file 'D:\Illumina\RTATemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_27_phasing.xml' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)
+   at Illumina.Common.FileMover.ProcessFiles(FileInfo sourceFile, String targetDirectory) in d:\BuildAgent\work\ab09a7827fcefa72\Src\Shared\ILMNcommon\Common\FileMover.cs:line 260,0,0,0
+3/3/2025,15:06:19.607,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_2_1102_phasing.txt,0,0,0
+3/3/2025,15:06:19.608,0,0,0,Error Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_2_1102_phasing.txt to D:\Illumina\RTATemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_2_1102_phasing.txt : System.IO.IOException: The process cannot access the file 'D:\Illumina\RTATemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_2_1102_phasing.txt' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)
+   at Illumina.Common.FileMover.ProcessFiles(FileInfo sourceFile, String targetDirectory) in d:\BuildAgent\work\ab09a7827fcefa72\Src\Shared\ILMNcommon\Common\FileMover.cs:line 260,0,0,0
+3/3/2025,15:06:19.610,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_37_phasing.xml,0,0,0
+3/3/2025,15:06:19.610,0,0,0,Error Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_37_phasing.xml to D:\Illumina\RTATemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_37_phasing.xml : System.IO.IOException: The process cannot access the file 'D:\Illumina\RTATemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_37_phasing.xml' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)
+   at Illumina.Common.FileMover.ProcessFiles(FileInfo sourceFile, String targetDirectory) in d:\BuildAgent\work\ab09a7827fcefa72\Src\Shared\ILMNcommon\Common\FileMover.cs:line 260,0,0,0
+3/3/2025,15:06:19.612,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_3_1102_phasing.txt,0,0,0
+3/3/2025,15:06:19.612,0,0,0,Error Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_3_1102_phasing.txt to D:\Illumina\RTATemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_3_1102_phasing.txt : System.IO.IOException: The process cannot access the file 'D:\Illumina\RTATemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_3_1102_phasing.txt' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)
+   at Illumina.Common.FileMover.ProcessFiles(FileInfo sourceFile, String targetDirectory) in d:\BuildAgent\work\ab09a7827fcefa72\Src\Shared\ILMNcommon\Common\FileMover.cs:line 260,0,0,0
+3/3/2025,15:06:19.613,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_phasing.txt,0,0,0
+3/3/2025,15:06:19.614,0,0,0,Error Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_phasing.txt to D:\Illumina\RTATemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_phasing.txt : System.IO.IOException: The process cannot access the file 'D:\Illumina\RTATemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_phasing.txt' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)
+   at Illumina.Common.FileMover.ProcessFiles(FileInfo sourceFile, String targetDirectory) in d:\BuildAgent\work\ab09a7827fcefa72\Src\Shared\ILMNcommon\Common\FileMover.cs:line 260,0,0,0
+3/3/2025,15:06:19.616,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_3_phasing.txt,0,0,0
+3/3/2025,15:06:19.617,0,0,0,Error Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_3_phasing.txt to D:\Illumina\RTATemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_3_phasing.txt : System.IO.IOException: The process cannot access the file 'D:\Illumina\RTATemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_3_phasing.txt' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)
+   at Illumina.Common.FileMover.ProcessFiles(FileInfo sourceFile, String targetDirectory) in d:\BuildAgent\work\ab09a7827fcefa72\Src\Shared\ILMNcommon\Common\FileMover.cs:line 260,0,0,0
+3/3/2025,15:06:19.618,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\EmpiricalPhasingCorrection_1_1_1102.txt,0,0,0
+3/3/2025,15:06:19.618,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\EmpiricalPhasingCorrection_1_3_1102.txt,0,0,0
+3/3/2025,15:06:19.619,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_1_phasing.txt,0,0,0
+3/3/2025,15:06:19.620,0,0,0,Error Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_1_phasing.txt to D:\Illumina\RTATemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_1_phasing.txt : System.IO.IOException: The process cannot access the file 'D:\Illumina\RTATemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_1_phasing.txt' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)
+   at Illumina.Common.FileMover.ProcessFiles(FileInfo sourceFile, String targetDirectory) in d:\BuildAgent\work\ab09a7827fcefa72\Src\Shared\ILMNcommon\Common\FileMover.cs:line 260,0,0,0
+3/3/2025,15:06:19.622,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_2_phasing.txt,0,0,0
+3/3/2025,15:06:19.623,0,0,0,Error Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_2_phasing.txt to D:\Illumina\RTATemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_2_phasing.txt : System.IO.IOException: The process cannot access the file 'D:\Illumina\RTATemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_2_phasing.txt' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)
+   at Illumina.Common.FileMover.ProcessFiles(FileInfo sourceFile, String targetDirectory) in d:\BuildAgent\work\ab09a7827fcefa72\Src\Shared\ILMNcommon\Common\FileMover.cs:line 260,0,0,0
+3/3/2025,15:06:19.624,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_3_phasing.txt,0,0,0
+3/3/2025,15:06:19.625,0,0,0,Error Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_3_phasing.txt to D:\Illumina\RTATemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_3_phasing.txt : System.IO.IOException: The process cannot access the file 'D:\Illumina\RTATemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_3_phasing.txt' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)
+   at Illumina.Common.FileMover.ProcessFiles(FileInfo sourceFile, String targetDirectory) in d:\BuildAgent\work\ab09a7827fcefa72\Src\Shared\ILMNcommon\Common\FileMover.cs:line 260,0,0,0
+3/3/2025,15:06:19.626,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\EmpiricalPhasingCorrection_1_2_1102.txt,0,0,0
+3/3/2025,15:06:19.627,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_2_1101_phasing.txt,0,0,0
+3/3/2025,15:06:19.627,0,0,0,Error Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_2_1101_phasing.txt to D:\Illumina\RTATemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_2_1101_phasing.txt : System.IO.IOException: The process cannot access the file 'D:\Illumina\RTATemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_2_1101_phasing.txt' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)
+   at Illumina.Common.FileMover.ProcessFiles(FileInfo sourceFile, String targetDirectory) in d:\BuildAgent\work\ab09a7827fcefa72\Src\Shared\ILMNcommon\Common\FileMover.cs:line 260,0,0,0
+3/3/2025,15:06:19.629,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_2_phasing.txt,0,0,0
+3/3/2025,15:06:19.629,0,0,0,Error Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_2_phasing.txt to D:\Illumina\RTATemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_2_phasing.txt : System.IO.IOException: The process cannot access the file 'D:\Illumina\RTATemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_2_phasing.txt' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)
+   at Illumina.Common.FileMover.ProcessFiles(FileInfo sourceFile, String targetDirectory) in d:\BuildAgent\work\ab09a7827fcefa72\Src\Shared\ILMNcommon\Common\FileMover.cs:line 260,0,0,0
+3/3/2025,15:06:19.631,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_1_1101_phasing.txt,0,0,0
+3/3/2025,15:06:19.632,0,0,0,Error Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_1_1101_phasing.txt to D:\Illumina\RTATemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_1_1101_phasing.txt : System.IO.IOException: The process cannot access the file 'D:\Illumina\RTATemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_1_1101_phasing.txt' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)
+   at Illumina.Common.FileMover.ProcessFiles(FileInfo sourceFile, String targetDirectory) in d:\BuildAgent\work\ab09a7827fcefa72\Src\Shared\ILMNcommon\Common\FileMover.cs:line 260,0,0,0
+3/3/2025,15:06:19.633,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_3_1101_phasing.txt,0,0,0
+3/3/2025,15:06:19.633,0,0,0,Error Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_3_1101_phasing.txt to D:\Illumina\RTATemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_3_1101_phasing.txt : System.IO.IOException: The process cannot access the file 'D:\Illumina\RTATemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_3_1101_phasing.txt' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)
+   at Illumina.Common.FileMover.ProcessFiles(FileInfo sourceFile, String targetDirectory) in d:\BuildAgent\work\ab09a7827fcefa72\Src\Shared\ILMNcommon\Common\FileMover.cs:line 260,0,0,0
+3/3/2025,15:06:19.635,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\Offsets\offsets.txt,0,0,0
+3/3/2025,15:06:19.636,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\Offsets\SubTileOffsets.txt,0,0,0
+3/3/2025,15:06:19.637,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\RTALogs\250303-012512_Log_00.txt,0,0,0
+3/3/2025,15:06:19.638,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\RTALogs\250303-012512_Read2_Delete Thread_00.txt,0,0,0
+3/3/2025,15:06:19.638,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\RTALogs\250303-012512_Read2_Processor #2_00.txt,0,0,0
+3/3/2025,15:06:19.639,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\RTALogs\250303-015802_Log_00.txt,0,0,0
+3/3/2025,15:06:19.639,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\RTALogs\250303-015802_Read3_Delete Thread_00.txt,0,0,0
+3/3/2025,15:06:19.640,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\RTALogs\250303-015802_Read3_Processor #2_00.txt,0,0,0
+3/3/2025,15:06:19.641,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\RTALogs\250303-111434_Log_00.txt,0,0,0
+3/3/2025,15:06:19.641,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\RTALogs\250303-111434_Read1_Delete Thread_00.txt,0,0,0
+3/3/2025,15:06:19.642,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\RTALogs\250303-111434_Read1_Processor #2_00.txt,0,0,0
+3/3/2025,15:06:19.642,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\RTALogs\DiagLog.txt,0,0,0
+3/3/2025,15:06:19.643,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\RTALogs\250303-012512_Read2_Copy Thread_00.txt,0,0,0
+3/3/2025,15:06:19.644,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\RTALogs\250303-012512_Read2_Sync Thread_00.txt,0,0,0
+3/3/2025,15:06:19.644,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\RTALogs\250303-015802_Read3_Processor #1_00.txt,0,0,0
+3/3/2025,15:06:19.645,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\RTALogs\250303-111434_Read1_Copy Thread_00.txt,0,0,0
+3/3/2025,15:06:19.646,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\RTALogs\250303-111434_Read1_Sync Thread_00.txt,0,0,0
+3/3/2025,15:06:19.647,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\RTALogs\250303-012512_Read2_Processor #1_00.txt,0,0,0
+3/3/2025,15:06:19.647,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\RTALogs\250303-015802_Read3_Sync Thread_00.txt,0,0,0
+3/3/2025,15:06:19.648,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\RTALogs\250303-015802_Read3_Copy Thread_00.txt,0,0,0
+3/3/2025,15:06:19.648,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\RTALogs\250303-111434_Read1_Processor #1_00.txt,0,0,0
+3/3/2025,15:06:19.650,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\config.xml,0,0,0
+3/3/2025,15:06:19.650,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\RTAConfiguration.xml,0,0,0
+3/3/2025,15:06:19.651,0,0,0,Error Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\RTAConfiguration.xml to D:\Illumina\MiSeqAnalysis\250303_M06490_1047_000000000-DRY9D\Data\Intensities\RTAConfiguration.xml : System.IO.IOException: The process cannot access the file 'D:\Illumina\MiSeqAnalysis\250303_M06490_1047_000000000-DRY9D\Data\Intensities\RTAConfiguration.xml' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)
+   at Illumina.Common.FileMover.ProcessFiles(FileInfo sourceFile, String targetDirectory) in d:\BuildAgent\work\ab09a7827fcefa72\Src\Shared\ILMNcommon\Common\FileMover.cs:line 260,0,0,0
+3/3/2025,15:06:19.653,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\config.xml,0,0,0
+3/3/2025,15:06:19.653,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\SampleSheet.csv,0,0,0
+3/3/2025,15:06:19.654,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Matrix\s_1_1_matrix.txt,0,0,0
+3/3/2025,15:06:19.655,0,0,0,Error Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Matrix\s_1_1_matrix.txt to D:\Illumina\MiSeqAnalysis\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Matrix\s_1_1_matrix.txt : System.IO.IOException: The process cannot access the file 'D:\Illumina\MiSeqAnalysis\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Matrix\s_1_1_matrix.txt' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)
+   at Illumina.Common.FileMover.ProcessFiles(FileInfo sourceFile, String targetDirectory) in d:\BuildAgent\work\ab09a7827fcefa72\Src\Shared\ILMNcommon\Common\FileMover.cs:line 260,0,0,0
+3/3/2025,15:06:19.657,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Matrix\s_1_2_1102_matrix.txt,0,0,0
+3/3/2025,15:06:19.657,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Matrix\s_1_3_1101_matrix.txt,0,0,0
+3/3/2025,15:06:19.658,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Matrix\s_1_3_matrix.txt,0,0,0
+3/3/2025,15:06:19.659,0,0,0,Error Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Matrix\s_1_3_matrix.txt to D:\Illumina\MiSeqAnalysis\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Matrix\s_1_3_matrix.txt : System.IO.IOException: The process cannot access the file 'D:\Illumina\MiSeqAnalysis\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Matrix\s_1_3_matrix.txt' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)
+   at Illumina.Common.FileMover.ProcessFiles(FileInfo sourceFile, String targetDirectory) in d:\BuildAgent\work\ab09a7827fcefa72\Src\Shared\ILMNcommon\Common\FileMover.cs:line 260,0,0,0
+3/3/2025,15:06:19.660,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Matrix\s_2_matrix.txt,0,0,0
+3/3/2025,15:06:19.661,0,0,0,Error Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Matrix\s_2_matrix.txt to D:\Illumina\MiSeqAnalysis\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Matrix\s_2_matrix.txt : System.IO.IOException: The process cannot access the file 'D:\Illumina\MiSeqAnalysis\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Matrix\s_2_matrix.txt' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)
+   at Illumina.Common.FileMover.ProcessFiles(FileInfo sourceFile, String targetDirectory) in d:\BuildAgent\work\ab09a7827fcefa72\Src\Shared\ILMNcommon\Common\FileMover.cs:line 260,0,0,0
+3/3/2025,15:06:19.663,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Matrix\s_1_2_matrix.txt,0,0,0
+3/3/2025,15:06:19.664,0,0,0,Error Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Matrix\s_1_2_matrix.txt to D:\Illumina\MiSeqAnalysis\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Matrix\s_1_2_matrix.txt : System.IO.IOException: The process cannot access the file 'D:\Illumina\MiSeqAnalysis\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Matrix\s_1_2_matrix.txt' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)
+   at Illumina.Common.FileMover.ProcessFiles(FileInfo sourceFile, String targetDirectory) in d:\BuildAgent\work\ab09a7827fcefa72\Src\Shared\ILMNcommon\Common\FileMover.cs:line 260,0,0,0
+3/3/2025,15:06:19.665,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Matrix\s_1_matrix.txt,0,0,0
+3/3/2025,15:06:19.666,0,0,0,Error Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Matrix\s_1_matrix.txt to D:\Illumina\MiSeqAnalysis\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Matrix\s_1_matrix.txt : System.IO.IOException: The process cannot access the file 'D:\Illumina\MiSeqAnalysis\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Matrix\s_1_matrix.txt' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)
+   at Illumina.Common.FileMover.ProcessFiles(FileInfo sourceFile, String targetDirectory) in d:\BuildAgent\work\ab09a7827fcefa72\Src\Shared\ILMNcommon\Common\FileMover.cs:line 260,0,0,0
+3/3/2025,15:06:19.667,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Matrix\s_1_2_1101_matrix.txt,0,0,0
+3/3/2025,15:06:19.667,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Matrix\s_3_matrix.txt,0,0,0
+3/3/2025,15:06:19.668,0,0,0,Error Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Matrix\s_3_matrix.txt to D:\Illumina\MiSeqAnalysis\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Matrix\s_3_matrix.txt : System.IO.IOException: The process cannot access the file 'D:\Illumina\MiSeqAnalysis\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Matrix\s_3_matrix.txt' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)
+   at Illumina.Common.FileMover.ProcessFiles(FileInfo sourceFile, String targetDirectory) in d:\BuildAgent\work\ab09a7827fcefa72\Src\Shared\ILMNcommon\Common\FileMover.cs:line 260,0,0,0
+3/3/2025,15:06:19.669,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Matrix\s_1_3_1102_matrix.txt,0,0,0
+3/3/2025,15:06:19.670,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\EmpiricalPhasingCorrection_1_1_1101.txt,0,0,0
+3/3/2025,15:06:19.671,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\EmpiricalPhasingCorrection_1_2_1101.txt,0,0,0
+3/3/2025,15:06:19.671,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\EmpiricalPhasingCorrection_1_3_1101.txt,0,0,0
+3/3/2025,15:06:19.672,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_02_phasing.xml,0,0,0
+3/3/2025,15:06:19.673,0,0,0,Error Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_02_phasing.xml to D:\Illumina\MiSeqAnalysis\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_02_phasing.xml : System.IO.IOException: The process cannot access the file 'D:\Illumina\MiSeqAnalysis\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_02_phasing.xml' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)
+   at Illumina.Common.FileMover.ProcessFiles(FileInfo sourceFile, String targetDirectory) in d:\BuildAgent\work\ab09a7827fcefa72\Src\Shared\ILMNcommon\Common\FileMover.cs:line 260,0,0,0
+3/3/2025,15:06:19.674,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_1_1102_phasing.txt,0,0,0
+3/3/2025,15:06:19.675,0,0,0,Error Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_1_1102_phasing.txt to D:\Illumina\MiSeqAnalysis\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_1_1102_phasing.txt : System.IO.IOException: The process cannot access the file 'D:\Illumina\MiSeqAnalysis\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_1_1102_phasing.txt' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)
+   at Illumina.Common.FileMover.ProcessFiles(FileInfo sourceFile, String targetDirectory) in d:\BuildAgent\work\ab09a7827fcefa72\Src\Shared\ILMNcommon\Common\FileMover.cs:line 260,0,0,0
+3/3/2025,15:06:19.677,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_27_phasing.xml,0,0,0
+3/3/2025,15:06:19.678,0,0,0,Error Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_27_phasing.xml to D:\Illumina\MiSeqAnalysis\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_27_phasing.xml : System.IO.IOException: The process cannot access the file 'D:\Illumina\MiSeqAnalysis\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_27_phasing.xml' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)
+   at Illumina.Common.FileMover.ProcessFiles(FileInfo sourceFile, String targetDirectory) in d:\BuildAgent\work\ab09a7827fcefa72\Src\Shared\ILMNcommon\Common\FileMover.cs:line 260,0,0,0
+3/3/2025,15:06:19.679,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_2_1102_phasing.txt,0,0,0
+3/3/2025,15:06:19.680,0,0,0,Error Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_2_1102_phasing.txt to D:\Illumina\MiSeqAnalysis\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_2_1102_phasing.txt : System.IO.IOException: The process cannot access the file 'D:\Illumina\MiSeqAnalysis\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_2_1102_phasing.txt' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)
+   at Illumina.Common.FileMover.ProcessFiles(FileInfo sourceFile, String targetDirectory) in d:\BuildAgent\work\ab09a7827fcefa72\Src\Shared\ILMNcommon\Common\FileMover.cs:line 260,0,0,0
+3/3/2025,15:06:19.681,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_37_phasing.xml,0,0,0
+3/3/2025,15:06:19.682,0,0,0,Error Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_37_phasing.xml to D:\Illumina\MiSeqAnalysis\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_37_phasing.xml : System.IO.IOException: The process cannot access the file 'D:\Illumina\MiSeqAnalysis\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_37_phasing.xml' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)
+   at Illumina.Common.FileMover.ProcessFiles(FileInfo sourceFile, String targetDirectory) in d:\BuildAgent\work\ab09a7827fcefa72\Src\Shared\ILMNcommon\Common\FileMover.cs:line 260,0,0,0
+3/3/2025,15:06:19.683,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_3_1102_phasing.txt,0,0,0
+3/3/2025,15:06:19.683,0,0,0,Error Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_3_1102_phasing.txt to D:\Illumina\MiSeqAnalysis\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_3_1102_phasing.txt : System.IO.IOException: The process cannot access the file 'D:\Illumina\MiSeqAnalysis\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_3_1102_phasing.txt' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)
+   at Illumina.Common.FileMover.ProcessFiles(FileInfo sourceFile, String targetDirectory) in d:\BuildAgent\work\ab09a7827fcefa72\Src\Shared\ILMNcommon\Common\FileMover.cs:line 260,0,0,0
+3/3/2025,15:06:19.685,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_phasing.txt,0,0,0
+3/3/2025,15:06:19.686,0,0,0,Error Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_phasing.txt to D:\Illumina\MiSeqAnalysis\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_phasing.txt : System.IO.IOException: The process cannot access the file 'D:\Illumina\MiSeqAnalysis\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_phasing.txt' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)
+   at Illumina.Common.FileMover.ProcessFiles(FileInfo sourceFile, String targetDirectory) in d:\BuildAgent\work\ab09a7827fcefa72\Src\Shared\ILMNcommon\Common\FileMover.cs:line 260,0,0,0
+3/3/2025,15:06:19.687,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_3_phasing.txt,0,0,0
+3/3/2025,15:06:19.688,0,0,0,Error Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_3_phasing.txt to D:\Illumina\MiSeqAnalysis\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_3_phasing.txt : System.IO.IOException: The process cannot access the file 'D:\Illumina\MiSeqAnalysis\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_3_phasing.txt' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)
+   at Illumina.Common.FileMover.ProcessFiles(FileInfo sourceFile, String targetDirectory) in d:\BuildAgent\work\ab09a7827fcefa72\Src\Shared\ILMNcommon\Common\FileMover.cs:line 260,0,0,0
+3/3/2025,15:06:19.689,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\EmpiricalPhasingCorrection_1_1_1102.txt,0,0,0
+3/3/2025,15:06:19.689,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\EmpiricalPhasingCorrection_1_3_1102.txt,0,0,0
+3/3/2025,15:06:19.690,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_1_phasing.txt,0,0,0
+3/3/2025,15:06:19.691,0,0,0,Error Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_1_phasing.txt to D:\Illumina\MiSeqAnalysis\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_1_phasing.txt : System.IO.IOException: The process cannot access the file 'D:\Illumina\MiSeqAnalysis\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_1_phasing.txt' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)
+   at Illumina.Common.FileMover.ProcessFiles(FileInfo sourceFile, String targetDirectory) in d:\BuildAgent\work\ab09a7827fcefa72\Src\Shared\ILMNcommon\Common\FileMover.cs:line 260,0,0,0
+3/3/2025,15:06:19.692,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_2_phasing.txt,0,0,0
+3/3/2025,15:06:19.693,0,0,0,Error Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_2_phasing.txt to D:\Illumina\MiSeqAnalysis\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_2_phasing.txt : System.IO.IOException: The process cannot access the file 'D:\Illumina\MiSeqAnalysis\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_2_phasing.txt' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)
+   at Illumina.Common.FileMover.ProcessFiles(FileInfo sourceFile, String targetDirectory) in d:\BuildAgent\work\ab09a7827fcefa72\Src\Shared\ILMNcommon\Common\FileMover.cs:line 260,0,0,0
+3/3/2025,15:06:19.695,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_3_phasing.txt,0,0,0
+3/3/2025,15:06:19.695,0,0,0,Error Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_3_phasing.txt to D:\Illumina\MiSeqAnalysis\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_3_phasing.txt : System.IO.IOException: The process cannot access the file 'D:\Illumina\MiSeqAnalysis\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_3_phasing.txt' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)
+   at Illumina.Common.FileMover.ProcessFiles(FileInfo sourceFile, String targetDirectory) in d:\BuildAgent\work\ab09a7827fcefa72\Src\Shared\ILMNcommon\Common\FileMover.cs:line 260,0,0,0
+3/3/2025,15:06:19.697,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\EmpiricalPhasingCorrection_1_2_1102.txt,0,0,0
+3/3/2025,15:06:19.697,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_2_1101_phasing.txt,0,0,0
+3/3/2025,15:06:19.698,0,0,0,Error Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_2_1101_phasing.txt to D:\Illumina\MiSeqAnalysis\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_2_1101_phasing.txt : System.IO.IOException: The process cannot access the file 'D:\Illumina\MiSeqAnalysis\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_2_1101_phasing.txt' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)
+   at Illumina.Common.FileMover.ProcessFiles(FileInfo sourceFile, String targetDirectory) in d:\BuildAgent\work\ab09a7827fcefa72\Src\Shared\ILMNcommon\Common\FileMover.cs:line 260,0,0,0
+3/3/2025,15:06:19.699,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_2_phasing.txt,0,0,0
+3/3/2025,15:06:19.701,0,0,0,Error Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_2_phasing.txt to D:\Illumina\MiSeqAnalysis\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_2_phasing.txt : System.IO.IOException: The process cannot access the file 'D:\Illumina\MiSeqAnalysis\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_2_phasing.txt' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)
+   at Illumina.Common.FileMover.ProcessFiles(FileInfo sourceFile, String targetDirectory) in d:\BuildAgent\work\ab09a7827fcefa72\Src\Shared\ILMNcommon\Common\FileMover.cs:line 260,0,0,0
+3/3/2025,15:06:19.702,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_1_1101_phasing.txt,0,0,0
+3/3/2025,15:06:19.702,0,0,0,Error Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_1_1101_phasing.txt to D:\Illumina\MiSeqAnalysis\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_1_1101_phasing.txt : System.IO.IOException: The process cannot access the file 'D:\Illumina\MiSeqAnalysis\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_1_1101_phasing.txt' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)
+   at Illumina.Common.FileMover.ProcessFiles(FileInfo sourceFile, String targetDirectory) in d:\BuildAgent\work\ab09a7827fcefa72\Src\Shared\ILMNcommon\Common\FileMover.cs:line 260,0,0,0
+3/3/2025,15:06:19.704,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_3_1101_phasing.txt,0,0,0
+3/3/2025,15:06:19.704,0,0,0,Error Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_3_1101_phasing.txt to D:\Illumina\MiSeqAnalysis\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_3_1101_phasing.txt : System.IO.IOException: The process cannot access the file 'D:\Illumina\MiSeqAnalysis\250303_M06490_1047_000000000-DRY9D\Data\Intensities\BaseCalls\Phasing\s_1_3_1101_phasing.txt' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)
+   at Illumina.Common.FileMover.ProcessFiles(FileInfo sourceFile, String targetDirectory) in d:\BuildAgent\work\ab09a7827fcefa72\Src\Shared\ILMNcommon\Common\FileMover.cs:line 260,0,0,0
+3/3/2025,15:06:19.706,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\Offsets\offsets.txt,0,0,0
+3/3/2025,15:06:19.707,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\Intensities\Offsets\SubTileOffsets.txt,0,0,0
+3/3/2025,15:06:19.708,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\RTALogs\250303-012512_Log_00.txt,0,0,0
+3/3/2025,15:06:19.708,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\RTALogs\250303-012512_Read2_Delete Thread_00.txt,0,0,0
+3/3/2025,15:06:19.709,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\RTALogs\250303-012512_Read2_Processor #2_00.txt,0,0,0
+3/3/2025,15:06:19.710,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\RTALogs\250303-015802_Log_00.txt,0,0,0
+3/3/2025,15:06:19.710,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\RTALogs\250303-015802_Read3_Delete Thread_00.txt,0,0,0
+3/3/2025,15:06:19.711,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\RTALogs\250303-015802_Read3_Processor #2_00.txt,0,0,0
+3/3/2025,15:06:19.711,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\RTALogs\250303-111434_Log_00.txt,0,0,0
+3/3/2025,15:06:19.712,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\RTALogs\250303-111434_Read1_Delete Thread_00.txt,0,0,0
+3/3/2025,15:06:19.712,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\RTALogs\250303-111434_Read1_Processor #2_00.txt,0,0,0
+3/3/2025,15:06:19.713,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\RTALogs\DiagLog.txt,0,0,0
+3/3/2025,15:06:19.714,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\RTALogs\250303-012512_Read2_Copy Thread_00.txt,0,0,0
+3/3/2025,15:06:19.715,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\RTALogs\250303-012512_Read2_Sync Thread_00.txt,0,0,0
+3/3/2025,15:06:19.715,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\RTALogs\250303-015802_Read3_Processor #1_00.txt,0,0,0
+3/3/2025,15:06:19.716,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\RTALogs\250303-111434_Read1_Copy Thread_00.txt,0,0,0
+3/3/2025,15:06:19.716,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\RTALogs\250303-111434_Read1_Sync Thread_00.txt,0,0,0
+3/3/2025,15:06:19.717,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\RTALogs\250303-012512_Read2_Processor #1_00.txt,0,0,0
+3/3/2025,15:06:19.717,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\RTALogs\250303-015802_Read3_Sync Thread_00.txt,0,0,0
+3/3/2025,15:06:19.718,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\RTALogs\250303-015802_Read3_Copy Thread_00.txt,0,0,0
+3/3/2025,15:06:19.719,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Data\RTALogs\250303-111434_Read1_Processor #1_00.txt,0,0,0
+3/3/2025,15:06:19.721,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-16.14.32__0000__RunSetup.imf1,0,0,0
+3/3/2025,15:06:19.722,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-17.12.13__0002__RunChemistry.imf1,0,0,0
+3/3/2025,15:06:19.722,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-17.24.26__0004__RunCycle__1.imf1,0,0,0
+3/3/2025,15:06:19.723,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-17.29.38__0006__RunCycle__3.imf1,0,0,0
+3/3/2025,15:06:19.724,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-17.34.40__0008__RunCycle__5.imf1,0,0,0
+3/3/2025,15:06:19.725,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-17.39.44__0010__RunCycle__7.imf1,0,0,0
+3/3/2025,15:06:19.725,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-17.44.44__0012__RunCycle__9.imf1,0,0,0
+3/3/2025,15:06:19.726,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-17.49.47__0014__RunCycle__11.imf1,0,0,0
+3/3/2025,15:06:19.726,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-17.54.47__0016__RunCycle__13.imf1,0,0,0
+3/3/2025,15:06:19.727,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-17.59.48__0018__RunCycle__15.imf1,0,0,0
+3/3/2025,15:06:19.728,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-18.04.49__0020__RunCycle__17.imf1,0,0,0
+3/3/2025,15:06:19.728,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-18.09.51__0022__RunCycle__19.imf1,0,0,0
+3/3/2025,15:06:19.729,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-18.14.51__0024__RunCycle__21.imf1,0,0,0
+3/3/2025,15:06:19.729,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-18.19.52__0026__RunCycle__23.imf1,0,0,0
+3/3/2025,15:06:19.730,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-18.24.48__0028__RunCycle__25.imf1,0,0,0
+3/3/2025,15:06:19.730,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-18.27.03__0030__RunChemistry.imf1,0,0,0
+3/3/2025,15:06:19.731,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-18.35.00__0032__RunCycle__26.imf1,0,0,0
+3/3/2025,15:06:19.732,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-18.40.07__0034__RunCycle__28.imf1,0,0,0
+3/3/2025,15:06:19.732,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-18.45.13__0036__RunCycle__30.imf1,0,0,0
+3/3/2025,15:06:19.733,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-18.50.18__0038__RunCycle__32.imf1,0,0,0
+3/3/2025,15:06:19.733,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-18.55.22__0040__RunCycle__34.imf1,0,0,0
+3/3/2025,15:06:19.734,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-18.57.59__0042__RunChemistry.imf1,0,0,0
+3/3/2025,15:06:19.734,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-19.12.00__0044__RunChemistry.imf1,0,0,0
+3/3/2025,15:06:19.735,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-19.36.58__0046__RunChemistry.imf1,0,0,0
+3/3/2025,15:06:19.736,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-19.43.06__0048__RunCycle__37.imf1,0,0,0
+3/3/2025,15:06:19.736,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-19.48.14__0050__RunCycle__39.imf1,0,0,0
+3/3/2025,15:06:19.737,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-19.53.19__0052__RunCycle__41.imf1,0,0,0
+3/3/2025,15:06:19.738,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-20.00.37__0054__RunCycle__43.imf1,0,0,0
+3/3/2025,15:06:19.739,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-20.05.40__0056__RunCycle__45.imf1,0,0,0
+3/3/2025,15:06:19.739,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\z0uubv22.tmp,0,0,0
+3/3/2025,15:06:19.740,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-16.14.58__0001__Run.imf1,0,0,0
+3/3/2025,15:06:19.740,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-17.26.59__0005__RunCycle__2.imf1,0,0,0
+3/3/2025,15:06:19.741,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-17.37.12__0009__RunCycle__6.imf1,0,0,0
+3/3/2025,15:06:19.742,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-17.47.14__0013__RunCycle__10.imf1,0,0,0
+3/3/2025,15:06:19.743,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-17.57.17__0017__RunCycle__14.imf1,0,0,0
+3/3/2025,15:06:19.743,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-18.07.19__0021__RunCycle__18.imf1,0,0,0
+3/3/2025,15:06:19.744,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-18.17.21__0025__RunCycle__22.imf1,0,0,0
+3/3/2025,15:06:19.745,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-18.24.58__0029__RunChemistry.imf1,0,0,0
+3/3/2025,15:06:19.745,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-18.37.34__0033__RunCycle__27.imf1,0,0,0
+3/3/2025,15:06:19.746,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-18.47.45__0037__RunCycle__31.imf1,0,0,0
+3/3/2025,15:06:19.746,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-18.57.49__0041__RunCycle__35.imf1,0,0,0
+3/3/2025,15:06:19.747,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-19.15.12__0045__RunChemistry.imf1,0,0,0
+3/3/2025,15:06:19.748,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-19.45.40__0049__RunCycle__38.imf1,0,0,0
+3/3/2025,15:06:19.748,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-19.58.03__0053__RunCycle__42.imf1,0,0,0
+3/3/2025,15:06:19.749,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-20.05.50__0057__RunChemistry.imf1,0,0,0
+3/3/2025,15:06:19.750,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-17.15.29__0003__RunChemistry.imf1,0,0,0
+3/3/2025,15:06:19.750,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-17.42.14__0011__RunCycle__8.imf1,0,0,0
+3/3/2025,15:06:19.751,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-18.02.19__0019__RunCycle__16.imf1,0,0,0
+3/3/2025,15:06:19.752,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-18.22.22__0027__RunCycle__24.imf1,0,0,0
+3/3/2025,15:06:19.752,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-18.42.40__0035__RunCycle__29.imf1,0,0,0
+3/3/2025,15:06:19.753,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-19.00.05__0043__RunChemistry.imf1,0,0,0
+3/3/2025,15:06:19.753,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-19.50.47__0051__RunCycle__40.imf1,0,0,0
+3/3/2025,15:06:19.754,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-17.32.09__0007__RunCycle__4.imf1,0,0,0
+3/3/2025,15:06:19.754,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-18.12.21__0023__RunCycle__20.imf1,0,0,0
+3/3/2025,15:06:19.755,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-18.52.50__0039__RunCycle__33.imf1,0,0,0
+3/3/2025,15:06:19.755,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-20.03.11__0055__RunCycle__44.imf1,0,0,0
+3/3/2025,15:06:19.756,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-17.52.17__0015__RunCycle__12.imf1,0,0,0
+3/3/2025,15:06:19.756,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-19.40.33__0047__RunCycle__36.imf1,0,0,0
+3/3/2025,15:06:19.757,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-18.31.09__0031__RunChemistry.imf1,0,0,0
+3/3/2025,15:06:19.759,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-16.14.32__0000__RunSetup.imf1,0,0,0
+3/3/2025,15:06:19.759,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-17.12.13__0002__RunChemistry.imf1,0,0,0
+3/3/2025,15:06:19.760,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-17.24.26__0004__RunCycle__1.imf1,0,0,0
+3/3/2025,15:06:19.761,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-17.29.38__0006__RunCycle__3.imf1,0,0,0
+3/3/2025,15:06:19.762,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-17.34.40__0008__RunCycle__5.imf1,0,0,0
+3/3/2025,15:06:19.762,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-17.39.44__0010__RunCycle__7.imf1,0,0,0
+3/3/2025,15:06:19.762,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-17.44.44__0012__RunCycle__9.imf1,0,0,0
+3/3/2025,15:06:19.763,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-17.49.47__0014__RunCycle__11.imf1,0,0,0
+3/3/2025,15:06:19.764,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-17.54.47__0016__RunCycle__13.imf1,0,0,0
+3/3/2025,15:06:19.764,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-17.59.48__0018__RunCycle__15.imf1,0,0,0
+3/3/2025,15:06:19.765,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-18.04.49__0020__RunCycle__17.imf1,0,0,0
+3/3/2025,15:06:19.765,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-18.09.51__0022__RunCycle__19.imf1,0,0,0
+3/3/2025,15:06:19.766,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-18.14.51__0024__RunCycle__21.imf1,0,0,0
+3/3/2025,15:06:19.767,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-18.19.52__0026__RunCycle__23.imf1,0,0,0
+3/3/2025,15:06:19.769,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-18.24.48__0028__RunCycle__25.imf1,0,0,0
+3/3/2025,15:06:19.769,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-18.27.03__0030__RunChemistry.imf1,0,0,0
+3/3/2025,15:06:19.770,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-18.35.00__0032__RunCycle__26.imf1,0,0,0
+3/3/2025,15:06:19.770,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-18.40.07__0034__RunCycle__28.imf1,0,0,0
+3/3/2025,15:06:19.771,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-18.45.13__0036__RunCycle__30.imf1,0,0,0
+3/3/2025,15:06:19.772,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-18.50.18__0038__RunCycle__32.imf1,0,0,0
+3/3/2025,15:06:19.772,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-18.55.22__0040__RunCycle__34.imf1,0,0,0
+3/3/2025,15:06:19.773,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-18.57.59__0042__RunChemistry.imf1,0,0,0
+3/3/2025,15:06:19.774,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-19.12.00__0044__RunChemistry.imf1,0,0,0
+3/3/2025,15:06:19.775,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-19.36.58__0046__RunChemistry.imf1,0,0,0
+3/3/2025,15:06:19.776,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-19.43.06__0048__RunCycle__37.imf1,0,0,0
+3/3/2025,15:06:19.776,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-19.48.14__0050__RunCycle__39.imf1,0,0,0
+3/3/2025,15:06:19.777,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-19.53.19__0052__RunCycle__41.imf1,0,0,0
+3/3/2025,15:06:19.778,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-20.00.37__0054__RunCycle__43.imf1,0,0,0
+3/3/2025,15:06:19.778,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-20.05.40__0056__RunCycle__45.imf1,0,0,0
+3/3/2025,15:06:19.779,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\z0uubv22.tmp,0,0,0
+3/3/2025,15:06:19.779,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-16.14.58__0001__Run.imf1,0,0,0
+3/3/2025,15:06:19.780,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-17.26.59__0005__RunCycle__2.imf1,0,0,0
+3/3/2025,15:06:19.781,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-17.37.12__0009__RunCycle__6.imf1,0,0,0
+3/3/2025,15:06:19.781,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-17.47.14__0013__RunCycle__10.imf1,0,0,0
+3/3/2025,15:06:19.782,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-17.57.17__0017__RunCycle__14.imf1,0,0,0
+3/3/2025,15:06:19.783,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-18.07.19__0021__RunCycle__18.imf1,0,0,0
+3/3/2025,15:06:19.783,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-18.17.21__0025__RunCycle__22.imf1,0,0,0
+3/3/2025,15:06:19.784,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-18.24.58__0029__RunChemistry.imf1,0,0,0
+3/3/2025,15:06:19.785,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-18.37.34__0033__RunCycle__27.imf1,0,0,0
+3/3/2025,15:06:19.786,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-18.47.45__0037__RunCycle__31.imf1,0,0,0
+3/3/2025,15:06:19.786,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-18.57.49__0041__RunCycle__35.imf1,0,0,0
+3/3/2025,15:06:19.787,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-19.15.12__0045__RunChemistry.imf1,0,0,0
+3/3/2025,15:06:19.788,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-19.45.40__0049__RunCycle__38.imf1,0,0,0
+3/3/2025,15:06:19.788,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-19.58.03__0053__RunCycle__42.imf1,0,0,0
+3/3/2025,15:06:19.789,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-20.05.50__0057__RunChemistry.imf1,0,0,0
+3/3/2025,15:06:19.790,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-17.15.29__0003__RunChemistry.imf1,0,0,0
+3/3/2025,15:06:19.791,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-17.42.14__0011__RunCycle__8.imf1,0,0,0
+3/3/2025,15:06:19.791,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-18.02.19__0019__RunCycle__16.imf1,0,0,0
+3/3/2025,15:06:19.792,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-18.22.22__0027__RunCycle__24.imf1,0,0,0
+3/3/2025,15:06:19.792,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-18.42.40__0035__RunCycle__29.imf1,0,0,0
+3/3/2025,15:06:19.793,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-19.00.05__0043__RunChemistry.imf1,0,0,0
+3/3/2025,15:06:19.793,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-19.50.47__0051__RunCycle__40.imf1,0,0,0
+3/3/2025,15:06:19.794,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-17.32.09__0007__RunCycle__4.imf1,0,0,0
+3/3/2025,15:06:19.795,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-18.12.21__0023__RunCycle__20.imf1,0,0,0
+3/3/2025,15:06:19.795,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-18.52.50__0039__RunCycle__33.imf1,0,0,0
+3/3/2025,15:06:19.796,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-20.03.11__0055__RunCycle__44.imf1,0,0,0
+3/3/2025,15:06:19.796,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-17.52.17__0015__RunCycle__12.imf1,0,0,0
+3/3/2025,15:06:19.797,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-19.40.33__0047__RunCycle__36.imf1,0,0,0
+3/3/2025,15:06:19.798,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\InstrumentAnalyticsLogs\running__M06490__2025-03-03-18.31.09__0031__RunChemistry.imf1,0,0,0
+3/3/2025,15:06:19.799,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle10_Log.00.log,0,0,0
+3/3/2025,15:06:19.800,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle11_Log.00.log,0,0,0
+3/3/2025,15:06:19.801,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle12_Log.00.log,0,0,0
+3/3/2025,15:06:19.801,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle13_Log.00.log,0,0,0
+3/3/2025,15:06:19.802,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle14_Log.00.log,0,0,0
+3/3/2025,15:06:19.803,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle15_Log.00.log,0,0,0
+3/3/2025,15:06:19.804,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle16_Log.00.log,0,0,0
+3/3/2025,15:06:19.805,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle17_Log.00.log,0,0,0
+3/3/2025,15:06:19.806,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle18_Log.00.log,0,0,0
+3/3/2025,15:06:19.806,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle19_Log.00.log,0,0,0
+3/3/2025,15:06:19.807,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle1_Log.00.log,0,0,0
+3/3/2025,15:06:19.810,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle1_Log.01.xml,0,0,0
+3/3/2025,15:06:19.815,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle1_Log.03.xml,0,0,0
+3/3/2025,15:06:19.820,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle20_Log.00.xml,0,0,0
+3/3/2025,15:06:19.821,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle21_Log.00.xml,0,0,0
+3/3/2025,15:06:19.822,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle22_Log.00.xml,0,0,0
+3/3/2025,15:06:19.823,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle23_Log.00.xml,0,0,0
+3/3/2025,15:06:19.824,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle24_Log.00.xml,0,0,0
+3/3/2025,15:06:19.825,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle25_Log.00.xml,0,0,0
+3/3/2025,15:06:19.826,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle26_Log.00.xml,0,0,0
+3/3/2025,15:06:19.829,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle27_Log.00.xml,0,0,0
+3/3/2025,15:06:19.830,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle28_Log.00.xml,0,0,0
+3/3/2025,15:06:19.831,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle29_Log.00.xml,0,0,0
+3/3/2025,15:06:19.832,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle2_Log.00.xml,0,0,0
+3/3/2025,15:06:19.833,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle30_Log.00.xml,0,0,0
+3/3/2025,15:06:19.834,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle31_Log.00.xml,0,0,0
+3/3/2025,15:06:19.835,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle32_Log.00.xml,0,0,0
+3/3/2025,15:06:19.836,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle33_Log.00.xml,0,0,0
+3/3/2025,15:06:19.837,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle34_Log.00.xml,0,0,0
+3/3/2025,15:06:19.838,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle35_Log.00.xml,0,0,0
+3/3/2025,15:06:19.841,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle36_Log.00.xml,0,0,0
+3/3/2025,15:06:19.843,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle37_Log.00.xml,0,0,0
+3/3/2025,15:06:19.845,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle38_Log.00.xml,0,0,0
+3/3/2025,15:06:19.846,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle39_Log.00.xml,0,0,0
+3/3/2025,15:06:19.847,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle3_Log.00.xml,0,0,0
+3/3/2025,15:06:19.848,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle40_Log.00.xml,0,0,0
+3/3/2025,15:06:19.849,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle41_Log.00.xml,0,0,0
+3/3/2025,15:06:19.850,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle42_Log.00.xml,0,0,0
+3/3/2025,15:06:19.852,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle43_Log.00.xml,0,0,0
+3/3/2025,15:06:19.853,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle44_Log.00.xml,0,0,0
+3/3/2025,15:06:19.854,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle45_Log.00.xml,0,0,0
+3/3/2025,15:06:19.855,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle4_Log.00.xml,0,0,0
+3/3/2025,15:06:19.856,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle5_Log.00.xml,0,0,0
+3/3/2025,15:06:19.857,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle6_Log.00.xml,0,0,0
+3/3/2025,15:06:19.858,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle7_Log.00.xml,0,0,0
+3/3/2025,15:06:19.859,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle8_Log.00.xml,0,0,0
+3/3/2025,15:06:19.860,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle9_Log.00.xml,0,0,0
+3/3/2025,15:06:19.861,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle10_Log.00.xml,0,0,0
+3/3/2025,15:06:19.862,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle12_Log.00.xml,0,0,0
+3/3/2025,15:06:19.863,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle14_Log.00.xml,0,0,0
+3/3/2025,15:06:19.863,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle16_Log.00.xml,0,0,0
+3/3/2025,15:06:19.864,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle18_Log.00.xml,0,0,0
+3/3/2025,15:06:19.865,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle1_Log.00.xml,0,0,0
+3/3/2025,15:06:19.867,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle20_Log.00.log,0,0,0
+3/3/2025,15:06:19.868,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle22_Log.00.log,0,0,0
+3/3/2025,15:06:19.868,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle24_Log.00.log,0,0,0
+3/3/2025,15:06:19.869,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle26_Log.00.log,0,0,0
+3/3/2025,15:06:19.870,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle28_Log.00.log,0,0,0
+3/3/2025,15:06:19.871,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle2_Log.00.log,0,0,0
+3/3/2025,15:06:19.872,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle31_Log.00.log,0,0,0
+3/3/2025,15:06:19.872,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle33_Log.00.log,0,0,0
+3/3/2025,15:06:19.873,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle35_Log.00.log,0,0,0
+3/3/2025,15:06:19.874,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle37_Log.00.log,0,0,0
+3/3/2025,15:06:19.874,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle39_Log.00.log,0,0,0
+3/3/2025,15:06:19.875,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle40_Log.00.log,0,0,0
+3/3/2025,15:06:19.876,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle42_Log.00.log,0,0,0
+3/3/2025,15:06:19.876,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle44_Log.00.log,0,0,0
+3/3/2025,15:06:19.877,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle4_Log.00.log,0,0,0
+3/3/2025,15:06:19.878,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle6_Log.00.log,0,0,0
+3/3/2025,15:06:19.879,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle8_Log.00.log,0,0,0
+3/3/2025,15:06:19.879,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle11_Log.00.xml,0,0,0
+3/3/2025,15:06:19.880,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle15_Log.00.xml,0,0,0
+3/3/2025,15:06:19.881,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle19_Log.00.xml,0,0,0
+3/3/2025,15:06:19.882,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle21_Log.00.log,0,0,0
+3/3/2025,15:06:19.883,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle25_Log.00.log,0,0,0
+3/3/2025,15:06:19.883,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle29_Log.00.log,0,0,0
+3/3/2025,15:06:19.884,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle32_Log.00.log,0,0,0
+3/3/2025,15:06:19.884,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle36_Log.00.log,0,0,0
+3/3/2025,15:06:19.885,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle3_Log.00.log,0,0,0
+3/3/2025,15:06:19.886,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle43_Log.00.log,0,0,0
+3/3/2025,15:06:19.887,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle5_Log.00.log,0,0,0
+3/3/2025,15:06:19.887,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle9_Log.00.log,0,0,0
+3/3/2025,15:06:19.888,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle13_Log.00.xml,0,0,0
+3/3/2025,15:06:19.889,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle1_Log.02.xml,0,0,0
+3/3/2025,15:06:19.894,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle27_Log.00.log,0,0,0
+3/3/2025,15:06:19.895,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle34_Log.00.log,0,0,0
+3/3/2025,15:06:19.895,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle41_Log.00.log,0,0,0
+3/3/2025,15:06:19.896,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle7_Log.00.log,0,0,0
+3/3/2025,15:06:19.897,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle17_Log.00.xml,0,0,0
+3/3/2025,15:06:19.898,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle30_Log.00.log,0,0,0
+3/3/2025,15:06:19.899,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle45_Log.00.log,0,0,0
+3/3/2025,15:06:19.900,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle23_Log.00.log,0,0,0
+3/3/2025,15:06:19.900,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle38_Log.00.log,0,0,0
+3/3/2025,15:06:19.902,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle10_Log.00.log,0,0,0
+3/3/2025,15:06:19.903,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle11_Log.00.log,0,0,0
+3/3/2025,15:06:19.903,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle12_Log.00.log,0,0,0
+3/3/2025,15:06:19.904,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle13_Log.00.log,0,0,0
+3/3/2025,15:06:19.904,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle14_Log.00.log,0,0,0
+3/3/2025,15:06:19.905,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle15_Log.00.log,0,0,0
+3/3/2025,15:06:19.905,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle16_Log.00.log,0,0,0
+3/3/2025,15:06:19.906,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle17_Log.00.log,0,0,0
+3/3/2025,15:06:19.906,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle18_Log.00.log,0,0,0
+3/3/2025,15:06:19.907,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle19_Log.00.log,0,0,0
+3/3/2025,15:06:19.908,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle1_Log.00.log,0,0,0
+3/3/2025,15:06:19.911,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle1_Log.01.xml,0,0,0
+3/3/2025,15:06:19.915,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle1_Log.03.xml,0,0,0
+3/3/2025,15:06:19.920,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle20_Log.00.xml,0,0,0
+3/3/2025,15:06:19.921,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle21_Log.00.xml,0,0,0
+3/3/2025,15:06:19.922,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle22_Log.00.xml,0,0,0
+3/3/2025,15:06:19.924,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle23_Log.00.xml,0,0,0
+3/3/2025,15:06:19.925,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle24_Log.00.xml,0,0,0
+3/3/2025,15:06:19.926,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle25_Log.00.xml,0,0,0
+3/3/2025,15:06:19.927,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle26_Log.00.xml,0,0,0
+3/3/2025,15:06:19.929,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle27_Log.00.xml,0,0,0
+3/3/2025,15:06:19.930,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle28_Log.00.xml,0,0,0
+3/3/2025,15:06:19.931,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle29_Log.00.xml,0,0,0
+3/3/2025,15:06:19.932,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle2_Log.00.xml,0,0,0
+3/3/2025,15:06:19.933,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle30_Log.00.xml,0,0,0
+3/3/2025,15:06:19.934,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle31_Log.00.xml,0,0,0
+3/3/2025,15:06:19.935,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle32_Log.00.xml,0,0,0
+3/3/2025,15:06:19.936,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle33_Log.00.xml,0,0,0
+3/3/2025,15:06:19.937,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle34_Log.00.xml,0,0,0
+3/3/2025,15:06:19.938,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle35_Log.00.xml,0,0,0
+3/3/2025,15:06:19.941,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle36_Log.00.xml,0,0,0
+3/3/2025,15:06:19.943,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle37_Log.00.xml,0,0,0
+3/3/2025,15:06:19.944,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle38_Log.00.xml,0,0,0
+3/3/2025,15:06:19.945,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle39_Log.00.xml,0,0,0
+3/3/2025,15:06:19.946,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle3_Log.00.xml,0,0,0
+3/3/2025,15:06:19.948,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle40_Log.00.xml,0,0,0
+3/3/2025,15:06:19.949,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle41_Log.00.xml,0,0,0
+3/3/2025,15:06:19.950,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle42_Log.00.xml,0,0,0
+3/3/2025,15:06:19.951,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle43_Log.00.xml,0,0,0
+3/3/2025,15:06:19.952,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle44_Log.00.xml,0,0,0
+3/3/2025,15:06:19.953,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle45_Log.00.xml,0,0,0
+3/3/2025,15:06:19.954,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle4_Log.00.xml,0,0,0
+3/3/2025,15:06:19.955,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle5_Log.00.xml,0,0,0
+3/3/2025,15:06:19.956,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle6_Log.00.xml,0,0,0
+3/3/2025,15:06:19.956,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle7_Log.00.xml,0,0,0
+3/3/2025,15:06:19.957,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle8_Log.00.xml,0,0,0
+3/3/2025,15:06:19.958,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle9_Log.00.xml,0,0,0
+3/3/2025,15:06:19.959,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle10_Log.00.xml,0,0,0
+3/3/2025,15:06:19.960,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle12_Log.00.xml,0,0,0
+3/3/2025,15:06:19.961,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle14_Log.00.xml,0,0,0
+3/3/2025,15:06:19.962,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle16_Log.00.xml,0,0,0
+3/3/2025,15:06:19.963,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle18_Log.00.xml,0,0,0
+3/3/2025,15:06:19.964,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle1_Log.00.xml,0,0,0
+3/3/2025,15:06:19.966,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle20_Log.00.log,0,0,0
+3/3/2025,15:06:19.966,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle22_Log.00.log,0,0,0
+3/3/2025,15:06:19.967,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle24_Log.00.log,0,0,0
+3/3/2025,15:06:19.968,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle26_Log.00.log,0,0,0
+3/3/2025,15:06:19.968,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle28_Log.00.log,0,0,0
+3/3/2025,15:06:19.969,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle2_Log.00.log,0,0,0
+3/3/2025,15:06:19.970,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle31_Log.00.log,0,0,0
+3/3/2025,15:06:19.971,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle33_Log.00.log,0,0,0
+3/3/2025,15:06:19.971,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle35_Log.00.log,0,0,0
+3/3/2025,15:06:19.972,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle37_Log.00.log,0,0,0
+3/3/2025,15:06:19.973,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle39_Log.00.log,0,0,0
+3/3/2025,15:06:19.974,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle40_Log.00.log,0,0,0
+3/3/2025,15:06:19.975,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle42_Log.00.log,0,0,0
+3/3/2025,15:06:19.976,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle44_Log.00.log,0,0,0
+3/3/2025,15:06:19.976,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle4_Log.00.log,0,0,0
+3/3/2025,15:06:19.977,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle6_Log.00.log,0,0,0
+3/3/2025,15:06:19.978,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle8_Log.00.log,0,0,0
+3/3/2025,15:06:19.978,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle11_Log.00.xml,0,0,0
+3/3/2025,15:06:19.979,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle15_Log.00.xml,0,0,0
+3/3/2025,15:06:19.980,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle19_Log.00.xml,0,0,0
+3/3/2025,15:06:19.981,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle21_Log.00.log,0,0,0
+3/3/2025,15:06:19.982,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle25_Log.00.log,0,0,0
+3/3/2025,15:06:19.982,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle29_Log.00.log,0,0,0
+3/3/2025,15:06:19.983,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle32_Log.00.log,0,0,0
+3/3/2025,15:06:19.984,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle36_Log.00.log,0,0,0
+3/3/2025,15:06:19.984,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle3_Log.00.log,0,0,0
+3/3/2025,15:06:19.985,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle43_Log.00.log,0,0,0
+3/3/2025,15:06:19.986,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle5_Log.00.log,0,0,0
+3/3/2025,15:06:19.987,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle9_Log.00.log,0,0,0
+3/3/2025,15:06:19.987,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle13_Log.00.xml,0,0,0
+3/3/2025,15:06:19.988,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle1_Log.02.xml,0,0,0
+3/3/2025,15:06:19.993,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle27_Log.00.log,0,0,0
+3/3/2025,15:06:19.993,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle34_Log.00.log,0,0,0
+3/3/2025,15:06:19.994,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle41_Log.00.log,0,0,0
+3/3/2025,15:06:19.995,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle7_Log.00.log,0,0,0
+3/3/2025,15:06:19.995,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle17_Log.00.xml,0,0,0
+3/3/2025,15:06:19.996,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle30_Log.00.log,0,0,0
+3/3/2025,15:06:19.997,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle45_Log.00.log,0,0,0
+3/3/2025,15:06:19.998,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle23_Log.00.log,0,0,0
+3/3/2025,15:06:19.998,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Logs\250303_M06490_1047_000000000-DRY9D_Cycle38_Log.00.log,0,0,0
+3/3/2025,15:06:20.000,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Recipe\MS3681020-300V2.xml,0,0,0
+3/3/2025,15:06:20.000,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Recipe\RunState.xml,0,0,0
+3/3/2025,15:06:20.001,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Recipe\MS3681020-300V2.xml,0,0,0
+3/3/2025,15:06:20.001,0,0,0,Copying D:\Illumina\MiSeqTemp\250303_M06490_1047_000000000-DRY9D\Recipe\RunState.xml,0,0,0
+3/3/2025,15:06:20.003,0,0,0,Cleaning up local files,0,0,0
+3/3/2025,15:06:20.009,0,0,0,Cleaning up empty directories,0,0,0

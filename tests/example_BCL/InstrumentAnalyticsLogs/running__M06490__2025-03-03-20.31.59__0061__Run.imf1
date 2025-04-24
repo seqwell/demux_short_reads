@@ -1,0 +1,13 @@
+1
+2025-03-03T20:31:59.3546961Z,Header,Platform,"MiSeq",S,,
+2025-03-03T20:31:59.3546961Z,Header,MachineSerialNumber,"M06490",S,,
+2025-03-03T20:31:59.3546961Z,Header,UserRunName,"MiSeqRun",S,,
+2025-03-03T20:31:59.3546961Z,Header,ApplicationRunId,"250303_M06490_1047_000000000-DRY9D",S,,
+2025-03-03T20:31:59.3546961Z,Flowcell.RfidTag,LockDate,2025-03-03T20:31:59.3536969Z,T,Run,End
+2025-03-03T20:31:59.3556959Z,ReagentKit.RfidTag,LockDate,2025-03-03T20:31:59.3536969Z,T,Run,End
+2025-03-03T20:31:59.3556959Z,Buffer.RfidTag,LockDate,2025-03-03T20:31:59.3536969Z,T,Run,End
+2025-03-03T20:31:59.3576945Z,Run.Configuration,CompletedRead1Cycles,25,I,Run,End
+2025-03-03T20:31:59.3576945Z,Run.Configuration,CompletedRead2Cycles,0,I,Run,End
+2025-03-03T20:31:59.3576945Z,Run.Configuration,CompletedIndex1ReadCycles,10,I,Run,End
+2025-03-03T20:31:59.3576945Z,Run.Configuration,CompletedIndex2ReadCycles,10,I,Run,End
+2025-03-03T20:31:59.3576945Z,Run.Configuration,RunStatus,Completed,E,Run,End

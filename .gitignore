@@ -1,0 +1,7 @@
+# Ignore outputs and dockers directories
+outputs/
+dockers/
+dockers_bs/
+lesson_learned
+*.html
+

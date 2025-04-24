@@ -1,0 +1,54 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "allOf": [
+        {
+            "$ref": "#/$defs/input_output_options"
+        }
+    ],
+    "title": "seqWell Demux",
+    "$defs": {
+        "input_output_options": {
+            "title": "Input & Output Options",
+            "description": "Define the input and output data locations.",
+            "fa_icon": "fas fa-terminal",
+            "properties": {
+                "indexsheet": {
+                    "description": "Comma-separated index information sheet.",
+                    "fa_icon": "fas fa-file-csv",
+                    "format": "file-path",
+                    "help_text": "CSV file containing pools with headers: Sample_Plate, Sample_Well, i7, i5",
+                    "mimetype": "text/csv",
+                    "pattern": "^\\S+\\.(csv)$",
+                    "schema": "schemas/input_schema.json",
+                    "type": "string"
+                },
+                "out_dir": {
+                    "description": "Output directory or URI.",
+                    "fa_icon": "fas fa-folder-open",
+                    "format": "directory-path",
+                    "type": "string"
+                },
+                "bcl_path": {
+                    "description": "BCL file directory or URI.",
+                    "fa_icon": "fas fa-folder-open",
+                    "format": "directory-path",
+                    "type": "string"
+                },
+                "run_name": {
+                    "description": "Run name of the sequencing run to be demuxed",
+                    "type": "string"
+                }
+                
+            },
+            "required": [
+                "run_name",
+                "bcl_path",
+                "indexsheet",
+                "out_dir"
+                
+            ],
+            "type": "object"
+        }
+    },
+    "type": "object"
+}
