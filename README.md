@@ -1,4 +1,4 @@
-# seqWell Demultiplex Nextflow Pipeline
+# seqWell Demultiplex From Basecall Nextflow Pipeline
 
 
 This is the Nextflow pipeline to demultiplex illumina data for the seqWell ExpressPlex and Pureplex Multiplexing Kit.
@@ -9,7 +9,7 @@ The pipeline starts with basecall files and index sheet and has the following st
 
 1. The `SAMPLESHEET` process,  creates samplesheet using information from index sheet.
 2. The `BCLCONVERT` processe converts basecall data into fastq files.
-3. The `SUMMARIZE_DEMUX` process generate summary metrics in excel and txt file format from the reports from the `BCLCONVERT` processe. 
+3. The `SUMMARIZE_DEMUX` process generate summary metrics in excel format from the reports from the `BCLCONVERT` processe. 
 
 The final output from this pipeline includes BCLCONVERT output files, demultiplexed FASTQ files, a demultiplexing summary.
 
@@ -41,7 +41,7 @@ The required parameters are *run_name*, *indexsheet*, *bcl_path* and *out_dir*.
 
 There are four required columns:
 
-- *Sample_Plate*: Identifier to be used in naming the run plate.
+- *Sample_Plate*: Identifier to be used in naming the run plate for the wells included in the demux process.
   Can contain letters, numbers, dash ('-') and underscore ('_') in `Sample_Plate`. Must have at least one letter.
 - *Sample_Well*: Wells in the run plate to be demuxed.
   Must be any of the wells in the 96-well plates, such A01, A02, etc.
@@ -99,30 +99,42 @@ nextflow run \
     --out_dir "${PWD}/test_output" \
     -resume  -bg 
 ```
-
+The above bash code is saved in the file *nextflow.sh*.  
+When you get this repo, you can do a quick test using the example data in the tests folder by running *bash nextflow.sh*.
 
 ## Expected Outputs
 
 ```
 ├── example
 │   ├── D-4003_FASTQ
-│   │   ├── D-4003_A01_R1_001.fastq.gz
-│   │   ├── D-4003_A02_R1_001.fastq.gz
+│   │   ├── D-4003_A01_R1_001.fastq.gz                          ### demuxed reads
+│   │   ├── D-4003_A02_R1_001.fastq.gz                          ### the example data happend to be single end, but it will work for paired reads
 │   │   ├── D-4003_A03_R1_001.fastq.gz
 │   │   ├── D-4003_A04_R1_001.fastq.gz
 │   │   ├── D-4003_A05_R1_001.fastq.gz
-│   │   ├── D-4003_A06_R1_001.fastq.gz
-│   │   ├── D-4003_A07_R1_001.fastq.gz
-│   │   ├── D-4003_A08_R1_001.fastq.gz
-|.  |   ...
-│   │   ├── D-4003_H09_R1_001.fastq.gz
+│   │   ├ ...
 │   │   ├── D-4003_H10_R1_001.fastq.gz
 │   │   ├── D-4003_H11_R1_001.fastq.gz
 │   │   └── D-4003_H12_R1_001.fastq.gz
-│   ├── Undetermined_S0_R1_001.fastq.gz
-│   ├── example.stats.txt
-│   ├── example.tar.gz
-│   └── example.xlsx
-└── example_indexsheet_samplesheet.csv
-
+│   ├── Logs                                                    ### the logs from bclconvert process
+│   │   ├── Errors.log
+│   │   ├── FastqComplete.txt
+│   │   ├── Info.log
+│   │   └── Warnings.log
+│   ├── Reports                                                 ### the original reports from bclconvert process
+│   │   ├── Adapter_Cycle_Metrics.csv
+│   │   ├── Adapter_Metrics.csv
+│   │   ├── Demultiplex_Stats.csv
+│   │   ├── Demultiplex_Tile_Stats.csv
+│   │   ├── IndexMetricsOut.bin
+│   │   ├── Index_Hopping_Counts.csv
+│   │   ├── Quality_Metrics.csv
+│   │   ├── Quality_Tile_Metrics.csv
+│   │   ├── RunInfo.xml
+│   │   ├── SampleSheet.csv
+│   │   ├── Top_Unknown_Barcodes.csv
+│   │   └── fastq_list.csv
+│   ├── Undetermined_S0_L001_R1_001.fastq.gz                    ### the undetermined reads
+│   └── example.xlsx                                            ### combine original reports in the spreadsheet report
+└── example_indexsheet_samplesheet.csv                          ### the samplesheet created from the idexsheet
 ```

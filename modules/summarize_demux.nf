@@ -1,5 +1,7 @@
 process SUMMARIZE_DEMUX { 
   
+   publishDir path: "${params.out_dir}/${params.run_name}/", mode: 'copy'
+  
    
    input:
     path(reports) 
