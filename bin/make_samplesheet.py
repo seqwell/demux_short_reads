@@ -106,7 +106,7 @@ def make_custom(plate_path):
 plate = sys.argv[1]
 
 out_path = os.path.basename(plate).split('.')[0] + '_samplesheet.csv'
-length = '100'
+length = '150'
 
 
 # run make_custom if the input is a custom csv file
