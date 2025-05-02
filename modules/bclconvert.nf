@@ -30,7 +30,7 @@ process BCLCONVERT {
             mkdir -p "\$outdir"
             
             # Remove _S##_L001 from the name
-            newname=\$(echo "\$fname" | sed -E 's/_S[0-9]{1,2}_L001//')
+            newname=\$(echo "\$fname" | sed -E 's/_S[0-9]{1,}_L001//')
             mv "\$fq" "\$outdir/\${newname}.fastq.gz"
         else
             echo "Skipping file (no match): \$fname"
